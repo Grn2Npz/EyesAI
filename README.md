@@ -5,7 +5,7 @@ Final project for the Building AI course
 
 ## Summary
 
-EyesAI is a project to build an Artificial Intelligence based application that can help blind people do normal tasks. EyesAI is planned to run with the help of computer vision, machine learning, speech recognition and other AI functions that can interact with its users. 
+EyesAI is a project to build an AI based application that can help blind people do normal tasks. EyesAI is planned to run with the help of computer vision, machine learning, speech recognition and other AI functions that can interact with its users. 
 
 
 ## Background
