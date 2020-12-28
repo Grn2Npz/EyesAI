@@ -7,7 +7,6 @@ Final project for the Building AI course
 
 EyesAI is a project to build an AI based application that can help blind people do normal tasks. EyesAI is planned to run with the help of AI functions that can interact with its users. 
 
-
 ## Background
 
 * My idea will help visually impaired people beccome independent with the help of AI.
